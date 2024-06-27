@@ -1,0 +1,19 @@
+/* style.css */
+.menu-bar {
+    -fx-background-color: #A0522D;
+}
+
+.table-view {
+    -fx-background-color: white;
+}
+
+.vbox {
+    -fx-background-color: #7BBF6A;
+    -fx-padding: 10;
+    -fx-spacing: 10;
+}
+
+.button {
+    -fx-background-color: #A0522D;
+    -fx-text-fill: white;
+}
